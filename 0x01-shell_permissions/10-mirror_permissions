@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 chmod --reference+olleh hello
+=======
+chmod --reference=olleh hello
+>>>>>>> 01a12339eff419083383f3272808657d59fba4ca
